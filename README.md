@@ -54,7 +54,7 @@ Include a list of references that explain the architectures and techniques used 
 
 ## Dataset
 - **Dataset Source**: Fault Detection Dataset on Kaggle.
-- **Dataset Link**: [Kaggle - Fault Detection Dataset](https://www.kaggle.com/datasets)
+- **Dataset Link**: [Industrial Tools Classification](https://www.kaggle.com/datasets/niharikaamritkar/industrial-tools-classification))
 
 ## Additional Notes:
 Explore anomaly detection methods to improve fault identification for industrial equipment. This could involve training the models to identify anomalies in the images, which may indicate a fault in the equipment.
