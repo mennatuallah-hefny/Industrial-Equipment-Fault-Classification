@@ -53,7 +53,7 @@ We will compare the three models based on the following:
 Include a list of references that explain the architectures and techniques used in the project, including the original papers that introduced ResNet, Xception, and DenseNet.
 
 ## Dataset
-- **Dataset Source**: Fault Detection Dataset on Kaggle.
+- **Dataset Source**: Industrial Tools Classification on Kaggle.
 - **Dataset Link**: [Industrial Tools Classification](https://www.kaggle.com/datasets/niharikaamritkar/industrial-tools-classification))
 
 ## Additional Notes:
