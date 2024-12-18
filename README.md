@@ -1,7 +1,7 @@
 # Industrial Equipment Fault Classification
 
 ## Project Description
-This project involves detecting and classifying faults in industrial equipment using images. The goal is to develop a model capable of identifying faults from industrial equipment images and categorizing them correctly into different fault classes. The dataset used for this project is the **Fault Detection Dataset** from Kaggle.
+This project involves detecting and classifying faults in industrial equipment using images. The goal is to develop a model capable of identifying faults from industrial equipment images and categorizing them correctly into different fault classes. The dataset used for this project is the **casting product image data for quality inspection** from Kaggle.
 
 ### Task Breakdown
 - **ResNet Architecture**: Implement ResNet architecture from scratch.
@@ -53,8 +53,8 @@ We will compare the three models based on the following:
 Include a list of references that explain the architectures and techniques used in the project, including the original papers that introduced ResNet, Xception, and DenseNet.
 
 ## Dataset
-- **Dataset Source**: Industrial Tools Classification on Kaggle.
-- **Dataset Link**: [Industrial Tools Classification](https://www.kaggle.com/datasets/niharikaamritkar/industrial-tools-classification))
+- **Dataset Source**: casting product image data for quality inspection on Kaggle.
+- **Dataset Link**: [casting product image data for quality inspection](https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product)
 
 ## Additional Notes:
 Explore anomaly detection methods to improve fault identification for industrial equipment. This could involve training the models to identify anomalies in the images, which may indicate a fault in the equipment.
